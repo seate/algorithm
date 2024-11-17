@@ -1,3 +1,5 @@
 .vscode/tasks.json
 .vscode/c_cpp_properties.json
 *.exe
+.gitignore
+etc.txt
